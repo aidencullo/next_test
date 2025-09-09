@@ -7,7 +7,7 @@ export default function About() {
           Welcome to our Next.js application! This is a simple about page created using the App Router.
         </p>
         <p className="text-lg mb-4">
-          We're building modern web applications with the latest technologies and best practices.
+          We&apos;re building modern web applications with the latest technologies and best practices.
         </p>
         <p className="text-lg">
           Feel free to explore and learn more about what we do.

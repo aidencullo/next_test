@@ -56,7 +56,7 @@ export default function Contact() {
         <div className="mt-8 text-center">
           <h2 className="text-2xl font-semibold mb-4">Get in Touch</h2>
           <p className="text-gray-600 dark:text-gray-400 mb-4">
-            We'd love to hear from you. Send us a message and we'll respond as soon as possible.
+            We&apos;d love to hear from you. Send us a message and we&apos;ll respond as soon as possible.
           </p>
           <div className="space-y-2">
             <p className="text-gray-700 dark:text-gray-300">
